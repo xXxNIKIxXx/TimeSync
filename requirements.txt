@@ -19,6 +19,6 @@ tqdm==4.67.1
 typing_extensions==4.12.2
 tzdata==2025.1
 tzlocal==5.2
-urllib3==2.3.0
+urllib3==2.6.3
 vobject==0.9.9
 x-wr-timezone==2.0.0
